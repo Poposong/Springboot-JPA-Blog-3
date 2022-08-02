@@ -1,5 +1,4 @@
-# Springboot-JPA-Blog-3
-# 글쓰기, 글목록보기, 글목록 페이징
+## 글쓰기, 글목록보기, 글목록 페이징
 
 ### 1. 회원가입 (Elly/1234/Elly1234@naver.com)
 ![image](https://user-images.githubusercontent.com/81174840/182322251-58d4280f-b422-47b8-ad58-f2dc6b1510eb.png)
